@@ -1,0 +1,40 @@
+2025-11-18 10:15:32 INFO    System uruchomiony poprawnie
+2025-11-18 10:16:01 WARNING Niskie zasoby pamięci
+2025-11-18 10:16:45 ERROR   Nieudana próba połączenia z bazą danych
+2025-11-18 10:17:10 INFO    Użytkownik zalogowany
+2025-11-18 10:18:22 ERROR   Błąd odczytu pliku konfiguracyjnego
+2025-11-18 10:19:05 INFO    Operacja zakończona sukcesem
+2025-11-18 10:20:30 WARNING Przekroczono czas odpowiedzi serwera
+2025-11-18 10:21:44 INFO    Sesja zakończona
+2025-11-18 10:15:32 INFO    System uruchomiony poprawnie
+2025-11-18 10:16:01 WARNING Niskie zasoby pamięci
+2025-11-18 10:16:45 ERROR   Nieudana próba połączenia z bazą danych
+2025-11-18 10:17:10 INFO    Użytkownik zalogowany
+2025-11-18 10:18:22 ERROR   Błąd odczytu pliku konfiguracyjnego
+2025-11-18 10:19:05 INFO    Operacja zakończona sukcesem
+2025-11-18 10:20:30 WARNING Przekroczono czas odpowiedzi serwera
+2025-11-18 10:21:44 INFO    Sesja zakończona
+2025-11-18 10:15:32 INFO    System uruchomiony poprawnie
+2025-11-18 10:16:01 WARNING Niskie zasoby pamięci
+2025-11-18 10:16:45 ERROR   Nieudana próba połączenia z bazą danych
+2025-11-18 10:17:10 INFO    Użytkownik zalogowany
+2025-11-18 10:18:22 ERROR   Błąd odczytu pliku konfiguracyjnego
+2025-11-18 10:19:05 INFO    Operacja zakończona sukcesem
+2025-11-18 10:20:30 WARNING Przekroczono czas odpowiedzi serwera
+2025-11-18 10:21:44 INFO    Sesja zakończona
+2025-11-18 10:15:32 INFO    System uruchomiony poprawnie
+2025-11-18 10:16:01 WARNING Niskie zasoby pamięci
+2025-11-18 10:16:45 ERROR   Nieudana próba połączenia z bazą danych
+2025-11-18 10:17:10 INFO    Użytkownik zalogowany
+2025-11-18 10:18:22 ERROR   Błąd odczytu pliku konfiguracyjnego
+2025-11-18 10:19:05 INFO    Operacja zakończona sukcesem
+2025-11-18 10:20:30 WARNING Przekroczono czas odpowiedzi serwera
+2025-11-18 10:21:44 INFO    Sesja zakończona
+2025-11-18 10:15:32 INFO    System uruchomiony poprawnie
+2025-11-18 10:16:01 WARNING Niskie zasoby pamięci
+2025-11-18 10:16:45 ERROR   Nieudana próba połączenia z bazą danych
+2025-11-18 10:17:10 INFO    Użytkownik zalogowany
+2025-11-18 10:18:22 ERROR   Błąd odczytu pliku konfiguracyjnego
+2025-11-18 10:19:05 INFO    Operacja zakończona sukcesem
+2025-11-18 10:20:30 WARNING Przekroczono czas odpowiedzi serwera
+2025-11-18 10:21:44 INFO    Sesja zakończona
